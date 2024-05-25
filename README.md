@@ -1,2 +1,2 @@
 # book_store
-A book inbentory app
+A book inventory app
